@@ -50,10 +50,10 @@ fraud-detection-pipeline/
 │   ├── 01_etl_pipeline.ipynb
 │   ├── 02_spark_processing.ipynb
 │
-├── data_sample/   # (opcional)
-│   ├── logs_web_sample.txt
-│   ├── transacciones_sample.csv
-│   ├── tickets_soporte_sample.json
+├── data_sample/
+│   ├── logs_web.txt
+│   ├── transacciones.csv
+│   ├── tickets_soporte.json
 │
 ├── docs/
 │   └── arquitectura.png
