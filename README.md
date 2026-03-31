@@ -55,9 +55,6 @@ fraud-detection-pipeline/
 │   ├── transacciones.csv
 │   ├── tickets_soporte.json
 │
-├── docs/
-│   └── arquitectura.png
-│
 ├── .gitignore
 ├── requirements.txt
 └── README.md
